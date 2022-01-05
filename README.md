@@ -5,8 +5,7 @@ I'm from São Paulo, Brazil, and I'm learning Python to apply it to Data Enginee
 
 <div align="center">
   <a href="https://github.com/gabgovar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabgovar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabgovar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabgovar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 # :computer: Technologies
