@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  I'm Gabriel Vargas, I'm a Mechanical Engineering Researcher at São Paulo University and also a Ph.D. candidate in Mechanical Engineering.
-  I'm from São Paulo, Brazil, and I'm interested pipelines technologies to apply it to Data Engineering.
+I'm Gabriel Vargas, currenty I'm a Mechanical Engineering Researcher at São Paulo University and a Ph.D. candidate in Mechanical Engineering. I live São Paulo, Brazil, and I'm interested in data technologies especially pipelines technologies to apply it to Data Engineering. 
 </p>
 
 <br>
