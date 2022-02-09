@@ -4,7 +4,7 @@
 
 <p align="center">
   I'm Gabriel Vargas, I'm a Mechanical Engineering Researcher at São Paulo University and also a Ph.D. candidate in Mechanical Engineering.
-  I'm from São Paulo, Brazil, and I'm learning Python to apply it to Data Engineer.
+  I'm from São Paulo, Brazil, and I'm interested pipelines technologies to apply it to Data Engineering.
 </p>
 
 <br>
@@ -27,7 +27,7 @@
 </p>
 
 <h1 align='center'>
-:computer: Technologies
+:computer: technologies
 </h1>
 
 <p align="center">
