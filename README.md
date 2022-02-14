@@ -26,7 +26,7 @@ I'm Gabriel Vargas, currenty I'm a Mechanical Engineering Researcher at São Pau
 </p>
 
 <h1 align='center'>
-:computer: technologies
+:computer: technologies 
 </h1>
 
 <p align="center">
