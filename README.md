@@ -69,7 +69,10 @@ I'm Gabriel Vargas. Currently, I'm a Mechanical Engineering Researcher at São P
   <a href="https://www.credly.com/earner/earned/badge/e6e72c82-7c45-4b53-91b6-f60958ba8a5b">
     <img height="120em" src="https://user-images.githubusercontent.com/64149081/189968590-c5fc0cbc-4a19-4938-9e7f-3b58e19105b6.png"/>
   </a>
-    <a href="https://credentials.databricks.com/022ab462-aae0-4099-8e40-2be75b3b96e9">
+  <a href="https://www.credly.com/earner/earned/badge/a25f4b37-7ff8-406b-80dc-2df3f45e16c0">
+    <img height="120em" src="https://user-images.githubusercontent.com/64149081/189985707-a693eb79-f1c8-4f71-b66c-650e5e752fd9.png"/>
+  </a>
+  <a href="https://credentials.databricks.com/022ab462-aae0-4099-8e40-2be75b3b96e9">
     <img height="120em" src="https://user-images.githubusercontent.com/64149081/189967938-b7cfd40d-3336-40df-a2e5-c43fad02727f.png"/>
   </a> 
 </p>
