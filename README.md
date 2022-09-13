@@ -67,7 +67,7 @@ I'm Gabriel Vargas. Currently, I'm a Mechanical Engineering Researcher at São P
 
 <p align="center">
   <a href="https://github.com/gabgovar">
-    <img height="180em" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"/>
+    <img height="120em" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"/>
   </a>
 </p>
 
