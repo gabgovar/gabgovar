@@ -62,7 +62,7 @@ I'm Gabriel Vargas. Currently, I'm a Mechanical Engineering Researcher at São P
 </p>
 
 <h1 align='center'>
-:man_student: certifications 
+:man_student: Certifications 
 </h1>
 
 <p align="center">
