@@ -64,4 +64,12 @@ I'm Gabriel Vargas. Currently, I'm a Mechanical Engineering Researcher at São P
 <h1 align='center'>
 :man_student: certifications 
 </h1>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e6e72c82-7c45-4b53-91b6-f60958ba8a5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<p align="center">
+  <a href="https://github.com/gabgovar">
+    <img height="180em" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"/>
+  </a>
+</p>
+
+
+
