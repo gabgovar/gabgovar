@@ -61,3 +61,7 @@ I'm Gabriel Vargas. Currently, I'm a Mechanical Engineering Researcher at São P
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 </p>
 
+<h1 align='center'>
+:man_student: certifications 
+</h1>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e6e72c82-7c45-4b53-91b6-f60958ba8a5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
