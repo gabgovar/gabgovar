@@ -18,12 +18,6 @@ I'm Gabriel Vargas. Currently, I'm a Mechanical Engineering Researcher at São P
 </p>
 
 <br>
-  
-<p align="center">
-  <a href="https://github.com/gabgovar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabgovar&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
 
 <h1 align='center'>
 :computer: technologies 
