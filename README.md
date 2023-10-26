@@ -69,4 +69,9 @@ I'm Gabriel Vargas. Currently, I'm a Mechanical Engineering Researcher at São P
   <a href="https://credentials.databricks.com/022ab462-aae0-4099-8e40-2be75b3b96e9">
     <img height="120em" src="https://user-images.githubusercontent.com/64149081/189967938-b7cfd40d-3336-40df-a2e5-c43fad02727f.png"/>
   </a> 
+   <a href="https://credentials.databricks.com/ad047f1b-acaf-4e33-94d9-1bdb2c870d54#gs.6vmfhn">
+    <img height="120em" src="https://ci4.googleusercontent.com/proxy/pKyWgiQuwTfp19fGu4GfqV6_0OcE-OQL_OTGbAb7zY8MA0wN804WJ5ZubdAxlYIorJ6wmzIoHPw7sNnV5A5LNhdVZt-CLadpU5lKuYKOXeEfR5anAxrEAXALU8mUvOo=s0-d-e1-ft#https://pdf.ms.credential.net/badge/image?env=production&credential=xjvorbbb">
+  </a> 
+
+  
 </p>
